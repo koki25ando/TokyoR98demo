@@ -12,3 +12,9 @@ A data.frame object of LT presenters and each titles
 \description{
 This function returns basic information of LT pf the 98th TokyoR
 }
+\examples{
+\dontrun{
+  tokyor98_LT()
+}
+
+}

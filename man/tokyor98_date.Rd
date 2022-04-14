@@ -13,3 +13,9 @@ A string object of the date
 This function returns event date of the 98th TokyoR.
 Date format is 'YYYY-MM-dd' by default
 }
+\examples{
+\dontrun{
+  tokyor98_date()
+}
+
+}

@@ -4,6 +4,11 @@
 #' Date format is 'YYYY-MM-dd' by default
 #'
 #' @return A string object of the date
+#' @examples
+#' \dontrun{
+#'   tokyor98_date()
+#' }
+#'
 #' @export
 
 tokyor98_date <- function() {
@@ -17,7 +22,14 @@ tokyor98_date <- function() {
 #' This function returns basic information of LT pf the 98th TokyoR
 #'
 #' @return A data.frame object of LT presenters and each titles
+#'
+#' @examples
+#' \dontrun{
+#'   tokyor98_LT()
+#' }
+#'
 #' @export
+
 
 tokyor98_LT <- function() {
   # https://tokyor.connpass.com/event/244200/
