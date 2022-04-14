@@ -1,7 +1,7 @@
 #' Event Date of the 98th TokyoR
 #'
 #' This function returns event date of the 98th TokyoR.
-#' Date format is 'YYYY-MM-dd' by default
+#' Date format is 'YYYY-MM-dd'
 #'
 #' @return A string object of the date
 #' @examples

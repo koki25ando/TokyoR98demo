@@ -11,7 +11,7 @@ A string object of the date
 }
 \description{
 This function returns event date of the 98th TokyoR.
-Date format is 'YYYY-MM-dd' by default
+Date format is 'YYYY-MM-dd'
 }
 \examples{
 \dontrun{
